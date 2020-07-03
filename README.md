@@ -7,6 +7,6 @@ It is light, does only one thing and does not require any useless permission.
 
 The results are limited to 5 and the bot does not display the content of the articles to avoid bloating the discussions. Enjoy!
 
-![usage](https://i.imgur.com/pAnV4t2.png)
+![usage](https://i.imgur.com/hGlAAt8.png)
 
 ![example](https://i.imgur.com/pAnV4t2.png)
